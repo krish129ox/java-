@@ -5,6 +5,7 @@ public class genericfunction {
     }
     public static void main(String [] a){
         print(new int[]{10,20,30,40,50});
-    }
     
+
+    }
 }
